@@ -7,4 +7,5 @@ This project aims at praticing how to use official covid 19 data and how to proc
 1. Download Anaconda
 2. Jupytor Lab / Jupytor Notebook
 3. install python pandas and scikitlearn package. 
-
+4. use the training and testing data
+5. check out the jupyter notebook file and see the detail
